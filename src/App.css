@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
+
+
+/* global styles */
+
+.px-section {
+    @apply px-6 2xl:px-10;
+}
+
+.py-section {
+    @apply py-4 2xl:py-6;
+}

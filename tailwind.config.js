@@ -18,6 +18,9 @@ export default {
         "dark-base-2": "#343a40",
         "dark-base-3": "#495057",
         "gray": "#ced4da",
+      },
+      fontFamily: {
+        "base": ["Roboto Slab"]
       }
     },
   },
