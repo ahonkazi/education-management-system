@@ -1,12 +1,19 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
-
+/* @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 /* global styles */
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300;400;500;600;700&display=swap');
+
 
 .px-section {
     @apply px-6 2xl:px-10;
 }
 
 .py-section {
-    @apply py-4 2xl:py-6;
+    @apply py-2 2xl:py-4;
+}
+
+
+.nav-link.active{
+    @apply bg-primary text-dark-base;
 }

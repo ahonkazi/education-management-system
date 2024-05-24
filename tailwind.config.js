@@ -20,7 +20,7 @@ export default {
         "gray": "#ced4da",
       },
       fontFamily: {
-        "base": ["Roboto Slab"]
+        "base": ["PT Sans", "Hind Siliguri"]
       }
     },
   },
